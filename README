@@ -1,0 +1,13 @@
+Jimbo's Pocket Librarian 📚
+
+Jimbo’s Pocket Librarian is a retro-themed app designed to help users organize their personal book collections, providing multi-parameter sorting and personalized recommendations. Inspired by the idea of making book management both functional and fun, Jimbo’s Pocket Librarian combines vintage design elements with modern features for a unique user experience.
+
+Features 🚀
+- Multi-parameter Sorting: Organize books by author, genre, publication date, and even cover color.
+- Personalized Book Recommendations: Uses the Goodreads API to suggest new books tailored to your reading habits.
+- Interactive Voice Assistant :guides users through the app with a playful, retro personality using AVFoundation.
+- Offline Functionality Core Data integration ensures that your library and preferences are saved locally.
+
+Motivation 💡
+ my love of libraries and the desire to make book organization accessible
+ 
